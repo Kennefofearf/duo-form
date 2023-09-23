@@ -17,6 +17,10 @@ root.render(
         <input type='text' lastName="lastName" />
       </label>
       <label>
+        Employee ID Number:
+        <input type='number' phoneNumber="phoneNumber" />
+      </label>
+      <label>
         Phone Number - DUO:
         <input type='number' phoneNumber="phoneNumber" />
       </label>
