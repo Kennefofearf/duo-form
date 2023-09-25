@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <form>
+    {/* <form>
       <label>
         First Name:
         <input type='text' firstName="firstName" />
@@ -25,7 +25,7 @@ root.render(
         <input type='number' phoneNumber="phoneNumber" />
       </label>
       <input type='submit' value="Submit" />
-    </form>
+    </form> */}
     <App />
   </React.StrictMode>
 );
