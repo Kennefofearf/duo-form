@@ -5,6 +5,7 @@ function App () {
     return (
       <div className="App">
         <header className="App-header">
+          {/* Creating the form */}
           <form>
       <label>
         First Name:
