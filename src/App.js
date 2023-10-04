@@ -29,7 +29,6 @@ function App () {
       <br></br>
       <input type='submit' value="Submit" />
     </form>
-          <p>
-            Edit src/App.js and save to reload. </p> <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer" > Learn React </a> </header> </div> ); }
+<a className="App-link"></a> </header> </div> ); }
 
 export default App;
